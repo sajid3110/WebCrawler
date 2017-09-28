@@ -1,0 +1,16 @@
+	B.txt	A.txt	C.txt	externalFile
+delivery	1.0	0.0	0.0	0.0	
+of	1.0	1.0	1.0	0.0	
+silver	2.0	0.0	0.0	0.0	
+arrived	1.0	0.0	1.0	0.0	
+in	1.0	1.0	1.0	0.0	
+a	1.0	1.0	1.0	0.0	
+truck	1.0	0.0	1.0	0.0	
+shipment	0.0	1.0	1.0	0.0	
+gold	0.0	1.0	1.0	0.0	
+damaged	0.0	1.0	0.0	0.0	
+fire	0.0	1.0	0.0	0.0	
+sajid	0.0	2.0	3.0	1.0	
+shakil	0.0	0.0	0.0	1.0	
+shaikh	0.0	0.0	0.0	2.0	
+laptop	0.0	0.0	0.0	1.0	

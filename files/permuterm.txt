@@ -1,0 +1,15 @@
+delivery	delivery$	elivery$d	livery$de	ivery$del	very$deli	ery$deliv	ry$delive	y$deliver	$delivery
+of	of$	f$o	$of
+silver	silver$	ilver$s	lver$si	ver$sil	er$silv	r$silve	$silver
+arrived	arrived$	rrived$a	rived$ar	ived$arr	ved$arri	ed$arriv	d$arrive	$arrived
+in	in$	n$i	$in
+a	a$	$a
+truck	truck$	ruck$t	uck$tr	ck$tru	k$truc	$truck
+shipment	shipment$	hipment$s	ipment$sh	pment$shi	ment$ship	ent$shipm	nt$shipme	t$shipmen	$shipment
+gold	gold$	old$g	ld$go	d$gol	$gold
+damaged	damaged$	amaged$d	maged$da	aged$dam	ged$dama	ed$damag	d$damage	$damaged
+fire	fire$	ire$f	re$fi	e$fir	$fire
+sajid	sajid$	ajid$s	jid$sa	id$saj	d$saji	$sajid
+shakil	shakil$	hakil$s	akil$sh	kil$sha	il$shak	l$shaki	$shakil
+shaikh	shaikh$	haikh$s	aikh$sh	ikh$sha	kh$shai	h$shaik	$shaikh
+laptop	laptop$	aptop$l	ptop$la	top$lap	op$lapt	p$lapto	$laptop
